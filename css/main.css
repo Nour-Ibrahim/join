@@ -1,0 +1,224 @@
+.header h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 40px;
+}
+.header{
+    background-color: rgba(6, 6, 124, 0.774);
+    width: 96%;
+    height: 150px;
+    margin-left: 2%;
+}
+.head{
+    text-align: center;
+}
+.icons{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.icons h3{
+    color:blue;
+    text-align: center;
+}
+.icons p{
+    
+    color: blue;
+    text-align: center;
+}
+.icons button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
+.icon{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.icon h3{
+    color:blue;
+    text-align: center;
+}
+.icon p{
+    
+    color: blue;
+    text-align: center;
+}
+.icon button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
+.icns{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.icns h3{
+    color:blue;
+    text-align: center;
+}
+.icns p{
+    
+    color: blue;
+    text-align: center;
+}
+.icns button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
+.icn{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.icn h3{
+    color:blue;
+    text-align: center;
+}
+.icn p{
+    
+    color: blue;
+    text-align: center;
+}
+.icn button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
+.large{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.large h3{
+    color:blue;
+    text-align: center;
+}
+.large p{
+    
+    color: blue;
+    text-align: center;
+}
+.large button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
+.lar{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.lar h3{
+    color:blue;
+    text-align: center;
+}
+.lar p{
+    
+    color: blue;
+    text-align: center;
+}
+.lar button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
+.sma{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.sma h3{
+    color:blue;
+    text-align: center;
+}
+.sma p{
+    
+    color: blue;
+    text-align: center;
+}
+.sma button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
+
+.sm{
+    border: 1px solid blue;
+    text-align: center;
+    float: left;
+    width: 45%;
+    height: 30%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.sm h3{
+    color:blue;
+    text-align: center;
+}
+.sm p{
+    
+    color: blue;
+    text-align: center;
+}
+.sm button{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    border: tomato;
+    margin-bottom: 5px;
+}
